@@ -1,0 +1,99 @@
+[
+  [
+    [
+      "product_review_id",
+      "str"
+    ],
+    [
+      "product_id",
+      "str"
+    ],
+    [
+      "reviewer_name",
+      "str"
+    ],
+    [
+      "review_date",
+      "str"
+    ],
+    [
+      "email_address",
+      "str"
+    ],
+    [
+      "rating",
+      "str"
+    ],
+    [
+      "comments",
+      "str"
+    ]
+  ],
+  [
+    "1",
+    "709",
+    "John Smith",
+    "2013-09-18 00:00:00",
+    "john@fourthcoffee.com",
+    "5"
+  ],
+  [],
+  [],
+  [],
+  [
+    "I won't go on another trip without them!"
+  ],
+  [
+    "2",
+    "937",
+    "David",
+    "2013-11-13 00:00:00",
+    "david@graphicdesigninstitute.com",
+    "4"
+  ],
+  [],
+  [
+    "them even better if there was a weight reduction. Maybe in the next design. Still, I would recommend them to a friend."
+  ],
+  [
+    "3",
+    "937",
+    "Jill",
+    "2013-11-15 00:00:00",
+    "jill@margiestravel.com",
+    "2"
+  ],
+  [],
+  [
+    "ways I can adjust the pedals, or is it just a learning curve thing?"
+  ],
+  [
+    "4",
+    "798",
+    "Laura Norman",
+    "2013-11-15 00:00:00",
+    "laura@treyresearch.net",
+    "5"
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    "any level of experience. It's a huge step in the right direction for female cyclists and well worth your consideration and hard-earned money."
+  ]
+]

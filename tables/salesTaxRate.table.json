@@ -1,0 +1,227 @@
+[
+  [
+    [
+      "sales_tax_rate_id",
+      "str"
+    ],
+    [
+      "state_province_id",
+      "str"
+    ],
+    [
+      "tax_type",
+      "str"
+    ],
+    [
+      "tax_rate",
+      "str"
+    ],
+    [
+      "name",
+      "str"
+    ]
+  ],
+  [
+    "1",
+    "1",
+    "1",
+    "14",
+    "Canadian GST + Alberta Provincial Tax"
+  ],
+  [
+    "2",
+    "57",
+    "1",
+    "14.25",
+    "Canadian GST + Ontario Provincial Tax"
+  ],
+  [
+    "3",
+    "63",
+    "1",
+    "14.25",
+    "Canadian GST + Quebec Provincial Tax"
+  ],
+  [
+    "4",
+    "1",
+    "2",
+    "7",
+    "Canadian GST"
+  ],
+  [
+    "5",
+    "57",
+    "2",
+    "7",
+    "Canadian GST"
+  ],
+  [
+    "6",
+    "63",
+    "2",
+    "7",
+    "Canadian GST"
+  ],
+  [
+    "7",
+    "7",
+    "3",
+    "7",
+    "Canadian GST"
+  ],
+  [
+    "8",
+    "29",
+    "3",
+    "7",
+    "Canadian GST"
+  ],
+  [
+    "9",
+    "31",
+    "3",
+    "7",
+    "Canadian GST"
+  ],
+  [
+    "10",
+    "41",
+    "3",
+    "7",
+    "Canadian GST"
+  ],
+  [
+    "11",
+    "45",
+    "3",
+    "7",
+    "Canadian GST"
+  ],
+  [
+    "12",
+    "49",
+    "3",
+    "7",
+    "Canadian GST"
+  ],
+  [
+    "13",
+    "51",
+    "3",
+    "7",
+    "Canadian GST"
+  ],
+  [
+    "16",
+    "69",
+    "3",
+    "7",
+    "Canadian GST"
+  ],
+  [
+    "17",
+    "83",
+    "3",
+    "7",
+    "Canadian GST"
+  ],
+  [
+    "18",
+    "6",
+    "1",
+    "7.75",
+    "Arizona State Sales Tax"
+  ],
+  [
+    "19",
+    "9",
+    "1",
+    "8.75",
+    "California State Sales Tax"
+  ],
+  [
+    "20",
+    "15",
+    "1",
+    "8",
+    "Florida State Sales Tax"
+  ],
+  [
+    "21",
+    "30",
+    "1",
+    "7",
+    "Massachusetts State Sales Tax"
+  ],
+  [
+    "22",
+    "35",
+    "1",
+    "7.25",
+    "Michigan State Sales Tax"
+  ],
+  [
+    "23",
+    "36",
+    "1",
+    "6.75",
+    "Minnesota State Sales Tax"
+  ],
+  [
+    "24",
+    "72",
+    "1",
+    "7.25",
+    "Tennessese State Sales Tax"
+  ],
+  [
+    "25",
+    "73",
+    "1",
+    "7.5",
+    "Texas State Sales Tax"
+  ],
+  [
+    "26",
+    "74",
+    "1",
+    "5",
+    "Utah State Sales Tax"
+  ],
+  [
+    "27",
+    "79",
+    "1",
+    "8.8",
+    "Washington State Sales Tax"
+  ],
+  [
+    "28",
+    "77",
+    "3",
+    "10",
+    "Taxable Supply"
+  ],
+  [
+    "29",
+    "20",
+    "3",
+    "16",
+    "Germany Output Tax"
+  ],
+  [
+    "30",
+    "84",
+    "3",
+    "19.6",
+    "France Output Tax"
+  ],
+  [
+    "31",
+    "14",
+    "3",
+    "17.5",
+    "United Kingdom Output Tax"
+  ]
+]

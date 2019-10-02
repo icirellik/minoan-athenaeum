@@ -1,0 +1,92 @@
+[
+  [
+    [
+      "contact_type_id",
+      "str"
+    ],
+    [
+      "name",
+      "str"
+    ]
+  ],
+  [
+    "1",
+    "Accounting Manager"
+  ],
+  [
+    "2",
+    "Assistant Sales Agent"
+  ],
+  [
+    "3",
+    "Assistant Sales Representative"
+  ],
+  [
+    "4",
+    "Coordinator Foreign Markets"
+  ],
+  [
+    "5",
+    "Export Administrator"
+  ],
+  [
+    "6",
+    "International Marketing Manager"
+  ],
+  [
+    "7",
+    "Marketing Assistant"
+  ],
+  [
+    "8",
+    "Marketing Manager"
+  ],
+  [
+    "9",
+    "Marketing Representative"
+  ],
+  [
+    "10",
+    "Order Administrator"
+  ],
+  [
+    "11",
+    "Owner"
+  ],
+  [
+    "12",
+    "Owner/Marketing Assistant"
+  ],
+  [
+    "13",
+    "Product Manager"
+  ],
+  [
+    "14",
+    "Purchasing Agent"
+  ],
+  [
+    "15",
+    "Purchasing Manager"
+  ],
+  [
+    "16",
+    "Regional Account Representative"
+  ],
+  [
+    "17",
+    "Sales Agent"
+  ],
+  [
+    "18",
+    "Sales Associate"
+  ],
+  [
+    "19",
+    "Sales Manager"
+  ],
+  [
+    "20",
+    "Sales Representative"
+  ]
+]

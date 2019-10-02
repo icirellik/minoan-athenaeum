@@ -1,0 +1,44 @@
+[
+  [
+    [
+      "culture_id",
+      "str"
+    ],
+    [
+      "name",
+      "str"
+    ]
+  ],
+  [
+    "",
+    "Invariant Language (Invariant Country)"
+  ],
+  [
+    "ar",
+    "Arabic"
+  ],
+  [
+    "en",
+    "English"
+  ],
+  [
+    "es",
+    "Spanish"
+  ],
+  [
+    "fr",
+    "French"
+  ],
+  [
+    "he",
+    "Hebrew"
+  ],
+  [
+    "th",
+    "Thai"
+  ],
+  [
+    "zh-cht",
+    "Chinese"
+  ]
+]

@@ -1,0 +1,24 @@
+[
+  [
+    [
+      "phone_number_type_id",
+      "str"
+    ],
+    [
+      "name",
+      "str"
+    ]
+  ],
+  [
+    "1",
+    "Cell"
+  ],
+  [
+    "2",
+    "Home"
+  ],
+  [
+    "3",
+    "Work"
+  ]
+]
