@@ -1,0 +1,8 @@
+- Loaded "countries.table.json", 4 rows.
+- Loaded "cities.table.json", 16 rows.
+name          | country | population
+------------------------------------
+Washington DC | USA     |        681
+Ottawa        | Canada  |        934
+Delhi         | India   |      11034
+Tokyo         | Japan   |      13513

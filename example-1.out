@@ -1,0 +1,6 @@
+- Loaded "cities.table.json", 16 rows.
+name     | population
+---------------------
+Tokyo    |      13513
+Kanagawa |       9127
+Osaka    |       8838
