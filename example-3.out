@@ -1,0 +1,123 @@
+- Loaded "cities.table.json", 16 rows.
+name        | smaller_city 
+---------------------------
+New York    | Los Angeles  
+New York    | Chicago      
+New York    | Houston      
+New York    | Washington DC
+New York    | Toronto      
+New York    | Montreal     
+New York    | Calgary      
+New York    | Ottawa       
+New York    | Bangalore    
+New York    | Aichi        
+Los Angeles | Chicago      
+Los Angeles | Houston      
+Los Angeles | Washington DC
+Los Angeles | Toronto      
+Los Angeles | Montreal     
+Los Angeles | Calgary      
+Los Angeles | Ottawa       
+Chicago     | Houston      
+Chicago     | Washington DC
+Chicago     | Montreal     
+Chicago     | Calgary      
+Chicago     | Ottawa       
+Houston     | Washington DC
+Houston     | Montreal     
+Houston     | Calgary      
+Houston     | Ottawa       
+Toronto     | Chicago      
+Toronto     | Houston      
+Toronto     | Washington DC
+Toronto     | Montreal     
+Toronto     | Calgary      
+Toronto     | Ottawa       
+Montreal    | Washington DC
+Montreal    | Calgary      
+Montreal    | Ottawa       
+Calgary     | Washington DC
+Calgary     | Ottawa       
+Ottawa      | Washington DC
+Mumbai      | New York     
+Mumbai      | Los Angeles  
+Mumbai      | Chicago      
+Mumbai      | Houston      
+Mumbai      | Washington DC
+Mumbai      | Toronto      
+Mumbai      | Montreal     
+Mumbai      | Calgary      
+Mumbai      | Ottawa       
+Mumbai      | Delhi        
+Mumbai      | Bangalore    
+Mumbai      | Kanagawa     
+Mumbai      | Osaka        
+Mumbai      | Aichi        
+Delhi       | New York     
+Delhi       | Los Angeles  
+Delhi       | Chicago      
+Delhi       | Houston      
+Delhi       | Washington DC
+Delhi       | Toronto      
+Delhi       | Montreal     
+Delhi       | Calgary      
+Delhi       | Ottawa       
+Delhi       | Bangalore    
+Delhi       | Kanagawa     
+Delhi       | Osaka        
+Delhi       | Aichi        
+Bangalore   | Los Angeles  
+Bangalore   | Chicago      
+Bangalore   | Houston      
+Bangalore   | Washington DC
+Bangalore   | Toronto      
+Bangalore   | Montreal     
+Bangalore   | Calgary      
+Bangalore   | Ottawa       
+Bangalore   | Aichi        
+Tokyo       | New York     
+Tokyo       | Los Angeles  
+Tokyo       | Chicago      
+Tokyo       | Houston      
+Tokyo       | Washington DC
+Tokyo       | Toronto      
+Tokyo       | Montreal     
+Tokyo       | Calgary      
+Tokyo       | Ottawa       
+Tokyo       | Mumbai       
+Tokyo       | Delhi        
+Tokyo       | Bangalore    
+Tokyo       | Kanagawa     
+Tokyo       | Osaka        
+Tokyo       | Aichi        
+Kanagawa    | New York     
+Kanagawa    | Los Angeles  
+Kanagawa    | Chicago      
+Kanagawa    | Houston      
+Kanagawa    | Washington DC
+Kanagawa    | Toronto      
+Kanagawa    | Montreal     
+Kanagawa    | Calgary      
+Kanagawa    | Ottawa       
+Kanagawa    | Bangalore    
+Kanagawa    | Osaka        
+Kanagawa    | Aichi        
+Osaka       | New York     
+Osaka       | Los Angeles  
+Osaka       | Chicago      
+Osaka       | Houston      
+Osaka       | Washington DC
+Osaka       | Toronto      
+Osaka       | Montreal     
+Osaka       | Calgary      
+Osaka       | Ottawa       
+Osaka       | Bangalore    
+Osaka       | Aichi        
+Aichi       | Los Angeles  
+Aichi       | Chicago      
+Aichi       | Houston      
+Aichi       | Washington DC
+Aichi       | Toronto      
+Aichi       | Montreal     
+Aichi       | Calgary      
+Aichi       | Ottawa       

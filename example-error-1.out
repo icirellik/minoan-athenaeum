@@ -1,0 +1,3 @@
+- Loaded "countries.table.json", 4 rows.
+- Loaded "cities.table.json", 16 rows.
+ERROR: Column reference "name" is ambiguous; present in multiple tables: "countries", "cities".
