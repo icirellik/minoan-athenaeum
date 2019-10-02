@@ -1,0 +1,76 @@
+[
+  [
+    [
+      "scrap_reason_id",
+      "str"
+    ],
+    [
+      "name",
+      "str"
+    ]
+  ],
+  [
+    "1",
+    "Brake assembly not as ordered"
+  ],
+  [
+    "2",
+    "Color incorrect"
+  ],
+  [
+    "3",
+    "Gouge in metal"
+  ],
+  [
+    "4",
+    "Drill pattern incorrect"
+  ],
+  [
+    "5",
+    "Drill size too large"
+  ],
+  [
+    "6",
+    "Drill size too small"
+  ],
+  [
+    "7",
+    "Handling damage"
+  ],
+  [
+    "8",
+    "Paint process failed"
+  ],
+  [
+    "9",
+    "Primer process failed"
+  ],
+  [
+    "10",
+    "Seat assembly not as ordered"
+  ],
+  [
+    "11",
+    "Stress test failed"
+  ],
+  [
+    "12",
+    "Thermoform temperature too high"
+  ],
+  [
+    "13",
+    "Thermoform temperature too low"
+  ],
+  [
+    "14",
+    "Trim length too long"
+  ],
+  [
+    "15",
+    "Trim length too short"
+  ],
+  [
+    "16",
+    "Wheel misaligned"
+  ]
+]
